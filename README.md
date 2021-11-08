@@ -7,6 +7,10 @@ This was written from RStudio. Working?
 
 Is this showing?
 
+# Middle
+
+This is a test from VSCode - working? 
+
 # End
 
 Seems to be working? 
