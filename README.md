@@ -1,7 +1,6 @@
 # test_repo
-Testing connection with RStudio
 
-This was written from RStudio. Working? 
+Is this viewable? 
 
 # Introduction
 
