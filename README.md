@@ -1,15 +1,9 @@
 # test_repo
 
-Is this viewable? 
+Testing GitHub/VS Code integration and branching. 
 
-# Introduction
+# Title 1
 
-Is this showing?
+## Title 1.1
 
-# Middle
-
-This is a test from VSCode - working? 
-
-# End
-
-Seems to be working? 
+### Title 1.1.1
